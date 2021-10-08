@@ -93,7 +93,7 @@
 | Shourya Gupta | [ShouryaBrahmastra](https://github.com/ShouryaBrahmastra)|
 | Kalpita Goyal | [kalpita01](https://github.com/kalpita01)|
 | Harsha Bajaj | [bajajharsha](https://github.com/bajajharsha) |
-
+| Vaibhav Raj | [killerraj369](https://github.com/killerraj369) |
 
 
 
