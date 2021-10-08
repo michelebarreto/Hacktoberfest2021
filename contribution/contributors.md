@@ -1,7 +1,6 @@
 # Markdown
 
 | Nama Kontributor |  Nama Akun Github |
-| --- | --- |
 | Faiz Nurullah |  [Faiznurullah](https://github.com/faiznurullah) |
 | Andre Tri Ramadana |  [andre12001](https://github.com/andre12001) |
 | AnonSecTeamInc |  [anonsecteaminc](https://github.com/anonsecteaminc) |
@@ -93,6 +92,7 @@
 | Af Rizal | [RifkyAfpom](https://github.com/rifkyafpom) |
 | Shourya Gupta | [ShouryaBrahmastra](https://github.com/ShouryaBrahmastra)|
 | Kalpita Goyal | [kalpita01](https://github.com/kalpita01)|
+| Harsha Bajaj | [bajajharsha](https://github.com/bajajharsha) |
 
 
 
