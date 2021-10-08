@@ -101,7 +101,7 @@
 | Aakarsh Verma | [aakarsh2126](https://github.com/aakarsh2126) |
 | Ambareen Khan | [Ambareen15](https://github.com/Ambareen15) |
 | Aman Uttam | [AmanUttam1192](https://github.com/Amanuttam1192) |
-
+| Sudhanshu Patel | [sudhanshupatel-dev](https://github.com/sudhanshupatel-dev) |
 
 
 
