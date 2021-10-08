@@ -3,6 +3,7 @@
 | Nama Kontributor |  Nama Akun Github |
 | --- | --- |
 | Faiz Nurullah |  [Faiznurullah](https://github.com/faiznurullah) |
+| Andre Tri Ramadana |  [andre12001](https://github.com/andre12001) |
 | AnonSecTeamInc |  [anonsecteaminc](https://github.com/anonsecteaminc) |
 | Irvan Hakim |  [bakunya](https://github.com/bakunya) |
 | Bambang Supriadi |  [bamsarts](https://github.com/bamsarts) |
