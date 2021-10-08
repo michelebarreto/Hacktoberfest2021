@@ -92,7 +92,7 @@
 | Newton Fernandis | [FernandisNewton](https://github.com/FernandisNewton) |
 | Af Rizal | [RifkyAfpom](https://github.com/rifkyafpom) |
 | Shourya Gupta | [ShouryaBrahmastra](https://github.com/ShouryaBrahmastra)|
-
+| Kalpita Goyal | [kalpita01](https://github.com/kalpita01)|
 
 
 
