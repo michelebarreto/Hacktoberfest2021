@@ -102,7 +102,7 @@
 | Ambareen Khan | [Ambareen15](https://github.com/Ambareen15) |
 | Aman Uttam | [AmanUttam1192](https://github.com/Amanuttam1192) |
 | Sudhanshu Patel | [sudhanshupatel-dev](https://github.com/sudhanshupatel-dev) |
-
+| Achmad Rizqi Adi Alamsyah | [adialamsyahardi](https://github.com/adialamsyahardi) |
 
 
 
