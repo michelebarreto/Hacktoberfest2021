@@ -98,6 +98,8 @@
 |Nishant Kumar [nishantkumar1308](https://github.com/nishantkumar1308)
 | Deepyaman Das | [deepyaman-das](https://github.com/deepyaman-das) |
 | Disha Sharma | [dishasharma-dev](https://github.com/DishaSharma-dev) |
+| Aman Uttam | [AmanUttam1192](https://github.com/Amanuttam1192) |
+
 
 
 
