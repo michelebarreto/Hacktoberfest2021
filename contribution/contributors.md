@@ -97,6 +97,7 @@
 | Roshan | [roshan-sharma07 ](https://github.com/roshan-sharma07) |
 | Deepyaman Das | [deepyaman-das](https://github.com/deepyaman-das) |
 | Disha Sharma | [dishasharma-dev](https://github.com/DishaSharma-dev) |
+| Aakarsh Verma | [aakarsh2126](https://github.com/aakarsh2126) |
 
 
 
