@@ -98,7 +98,9 @@
 |Nishant Kumar [nishantkumar1308](https://github.com/nishantkumar1308)
 | Deepyaman Das | [deepyaman-das](https://github.com/deepyaman-das) |
 | Disha Sharma | [dishasharma-dev](https://github.com/DishaSharma-dev) |
+| Ambareen Khan | [Ambareen15](https://github.com/Ambareen15) |
 | Aman Uttam | [AmanUttam1192](https://github.com/Amanuttam1192) |
+
 
 
 
