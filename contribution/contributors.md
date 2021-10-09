@@ -106,7 +106,9 @@
 | khafidprayoga | [khafidprayoga](https://github.com/khafidprayoga) |
 | Alief Ramadhan | [itsmelief](https://github.com/itsmelief) |
 | Defri Indra Mahardika | [defrindr](https://github.com/defrindr) |
-| Lopamudra Dalai| [lopaissoded](https://github.com/lopaissoded)
+| Lopamudra Dalai| [lopaissoded](https://github.com/lopaissoded) |
+| Afdlol| [snorlaxzeroone](https://github.com/snorlaxzeroone) |
+
 
 
 
