@@ -105,7 +105,9 @@
 | Achmad Rizqi Adi Alamsyah | [adialamsyahardi](https://github.com/adialamsyahardi) |
 | khafidprayoga | [khafidprayoga](https://github.com/khafidprayoga) |
 | Alief Ramadhan | [itsmelief](https://github.com/itsmelief) |
+| Defri Indra Mahardika | [defrindr](https://github.com/defrindr) |
 | Lopamudra Dalai| [lopaissoded](https://github.com/lopaissoded)
+
 
 
 
