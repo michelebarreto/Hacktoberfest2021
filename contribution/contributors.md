@@ -112,7 +112,7 @@
 | Novan Aziz Ramadhan | [novanazizr](https://github.com/novanazizr) |
 | Kartik P Madhu | [kartikpmadhu](https://github.com/kartikpmadhu) |
 | Odo Rifqi | [odorifqi](https://github.com/odorifqi) |
-
+| Parmanand | [parmanand](https://github.com/parmanand)|
 
 
 
