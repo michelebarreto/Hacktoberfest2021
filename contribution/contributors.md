@@ -110,6 +110,7 @@
 | Lopamudra Dalai | [lopaissoded](https://github.com/lopaissoded) |
 | Afdlol | [snorlaxzeroone](https://github.com/snorlaxzeroone) |
 | Novan Aziz Ramadhan | [novanazizr](https://github.com/novanazizr) |
+| Kartik P Madhu | [kartikpmadhu](https://github.com/kartikpmadhu) |
 
 
 
