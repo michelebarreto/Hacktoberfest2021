@@ -108,6 +108,7 @@
 | Defri Indra Mahardika | [defrindr](https://github.com/defrindr) |
 | Lopamudra Dalai| [lopaissoded](https://github.com/lopaissoded) |
 | Afdlol| [snorlaxzeroone](https://github.com/snorlaxzeroone) |
+| Siddhant| [siddhant2202](https://github.com/siddhant2202) |
 
 
 
